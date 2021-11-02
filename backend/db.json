@@ -1,0 +1,14 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Pen",
+      "price": "2.39"
+    },
+    {
+      "name": "MacBook Pro Max plus infinity Hardcore I'm expensive af wtf omg",
+      "price": "9999999999.99",
+      "id": 2
+    }
+  ]
+}
